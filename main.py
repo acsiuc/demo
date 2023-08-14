@@ -1,2 +1,2 @@
 if __name__ == "main":
-    print("hello")
+    print("new hello")
